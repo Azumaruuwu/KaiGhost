@@ -43,3 +43,7 @@ msglang,english
 ignoreiolog, ID: OnSecondChange //OnSecondChange無視
 ignoreiolog, ID: OnMouse        //OnMouse系無視
 
+dic, config.dic, UTF-8
+dic, shiori3.dic, UTF-8
+dicif, optional.dic, UTF-8
+dicif, compatible.dic, UTF-8
