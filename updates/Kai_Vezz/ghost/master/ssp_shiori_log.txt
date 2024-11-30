@@ -1,0 +1,348 @@
+=========================================================
+2024/10/13 17:00:18.307
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseEnterAll
+Reference0: 89
+Reference1: 112
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+***CallTime:16msec.
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.307
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseEnter
+Reference0: 89
+Reference1: 112
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.316
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 89
+Reference1: 112
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.347
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 86
+Reference1: 122
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.375
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 83
+Reference1: 128
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.389
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 83
+Reference1: 130
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.444
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 83
+Reference1: 134
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.459
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnSecondChange
+Reference0: 104
+Reference1: 0
+Reference2: 0
+Reference3: 1
+Reference4: 0
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.515
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 81
+Reference1: 134
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+***CallTime:15msec.
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.533
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 80
+Reference1: 134
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.562
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseMove
+Reference0: 75
+Reference1: 118
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.569
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseLeave
+Reference0: 72
+Reference1: 110
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:18.569
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnMouseLeaveAll
+Reference0: 72
+Reference1: 110
+Reference2: 0
+Reference3: 0
+Reference4: 
+Reference5: 0
+Reference6: mouse
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+=========================================================
+2024/10/13 17:00:19.461
+
+-----send------------------------
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+SecurityOrigin: null
+Sender: SSP
+SenderType: internal
+ID: OnSecondChange
+Reference0: 104
+Reference1: 0
+Reference2: 0
+Reference3: 1
+Reference4: 0
+
+
+-----response--------------------
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
